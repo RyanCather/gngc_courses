@@ -1,6 +1,8 @@
 
 Welcome to LCARS - the central location for all GNGC IT subject course content.
 
+
+
 | Semester | [[Robotics and Mechatronics]]         | [[Digital Technologies (Programming)]] | [[Digital Technologies (Game)]] | [[Networking and Security]]                |
 | -------- | ------------------------------------- | -------------------------------------- | ------------------------------- | ------------------------------------------ |
 | 1        | [[Building and Programming Circuits]] | Digital Assets (P)                     | Digital Assets (G)              | Networking and Cyber Systems               |
