@@ -1,7 +1,17 @@
 
 Welcome to LCARS - the central location for all GNGC IT subject course content.
 
+> [!tip]
+> This is a test
+> And this is another test.
 
+> [!NOTE]
+> You should see this test as well!
+> It's great!
+
+> [!example]
+> Here is an example
+> Of another callout!
 
 | Semester | [[Robotics and Mechatronics]]         | [[Digital Technologies (Programming)]] | [[Digital Technologies (Game)]] | [[Networking and Security]]                |
 | -------- | ------------------------------------- | -------------------------------------- | ------------------------------- | ------------------------------------------ |
