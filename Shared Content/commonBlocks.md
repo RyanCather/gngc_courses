@@ -1,5 +1,5 @@
 # Contact Details
-
+---
 
 |**Teacher**     |**Email**     | **Course**| 
 | --- | --- | --- |
