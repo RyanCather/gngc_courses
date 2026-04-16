@@ -8,4 +8,4 @@ Welcome to LCARS - the central location for all GNGC IT subject course content.
 | 3        | [[Robotic & Mechatronic Systems]]     | Digital Solutions (P)                  | Digital Solutions (P)           | Designing and Securing Enterprise Networks |
 | 4        | Major Project                         | Major Project                          | Major Project                   | Major Project                              |
 
-
+![[commonBlocks#Contact Details]]
